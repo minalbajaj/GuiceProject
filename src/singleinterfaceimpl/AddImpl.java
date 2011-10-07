@@ -8,8 +8,5 @@ public class AddImpl implements Add{
        return a+b;
     }
 
-    public void display(){
-
-        System.out.println("hello");
-    }
+    
 }
