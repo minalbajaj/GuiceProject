@@ -2,6 +2,7 @@
 <project relativePaths="false" version="4">
   <component name="ChangeListManager">
     <list default="true" name="Default" comment="Add class changed">
+      <change type="MOVED" beforePath="C:\Minal\IdeaProject\guicetest\src\gitignore" afterPath="$PROJECT_DIR$/src/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guicetest.iws" afterPath="$PROJECT_DIR$/guicetest.iws" />
     </list>
     <ignored path=".idea/workspace.xml" />
@@ -480,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gitignore">
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
